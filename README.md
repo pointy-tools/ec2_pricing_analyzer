@@ -1,6 +1,6 @@
 # EC2 pricing analyzer
 
-This is based off the hard work of the [fck-nat](https://github.com/AndrewGuenther/fck-nat/tree/main/docs/pricing_analysis).
+This is based off the hard work of the [fck-nat](https://github.com/AndrewGuenther/fck-nat/tree/main/docs/pricing_analysis) folks.
 
 This code was largely written by a robot under my direction, it did ok, I did not care enough about this to hand craft it or make sure every line is how I would _prefer_ it.
 
